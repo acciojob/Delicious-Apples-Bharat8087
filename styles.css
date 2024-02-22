@@ -81,6 +81,9 @@ main {
     
     transition: background-color aqua;
 }
+.add-to-cart:hover {
+    background-color: blue;
+}
 
 
 
